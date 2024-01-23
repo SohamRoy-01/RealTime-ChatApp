@@ -1,7 +1,7 @@
 # Real Time Chat Application
 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Utilized React for the frontend, Vite for a fast build setup, and Firebase for backend services such as Firestore for real-time database, Authentication for user management, and Storage for file handling 
 
 Currently, two official plugins are available:
 
